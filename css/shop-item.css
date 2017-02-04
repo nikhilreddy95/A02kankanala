@@ -1,0 +1,184 @@
+body
+{
+	
+	background-image: url("1.jpg");
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 70px;
+	
+	
+}
+#p05
+{
+	color: white;
+		background-image: url("1.jpg");
+font-family: helvetica;
+font-style: italic;
+font-size: 3em;
+}
+
+#O01
+{
+	text-align: right;
+}
+h1
+{
+	text-align: left;
+	text-decoration: underline;
+	color:goldenrod; 
+	padding-top: 1em;
+	padding-left:0.5em ;
+}
+#p01
+{
+	color: goldenrod;
+	line-height: 1.5em;
+	
+	font-size: 1.5em;
+	padding-left: 0.3em;
+}
+#p02
+{
+	color: goldenrod;
+	line-height: 1.5em;
+	
+	font-size: 1.5em;
+	padding-left: 0.3em;
+}
+ul {
+    
+    overflow: hidden;
+    background-color: #333;
+    padding:0;
+    margin:0;
+    font-family: Helvetica;
+    list-style-type: none;
+}
+th
+{
+	color: white;
+}
+ol{
+	color:white;
+}
+
+#p03
+{
+	color:white;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+    color:white;
+}
+#im
+{
+	position: relative;
+}
+#im img
+{
+ position:absolute;
+ top: -275px;
+ right:10px;
+}
+.mailclass
+{
+	color: blue;
+	border-color: black;
+	background-color: white;
+	border:1;
+
+}
+#h01
+{
+	color:goldenrod;
+}
+
+#h02
+{
+	color:goldenrod;
+}
+
+
+
+#img01
+{
+	padding: 30em;
+}
+#img02
+{
+	padding: 30em;
+}
+#img03
+{
+	padding: 30em;
+}
+#img04
+{
+	padding: 30em;
+}
+#headtable
+{
+	width: 800px;
+	text-align: right;
+}
+#headcol1
+{
+width: 200px;
+}
+
+#headcol2
+{
+	width: 600px;
+	text-align: right;
+	float: right;
+
+}
+#Video
+{
+	float:right;
+}
+/*!
+ * Start Bootstrap - Shop Item (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+/*!
+ * Start Bootstrap - Shop Item (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+
